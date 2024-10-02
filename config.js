@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log('version.new-feature2')
+console.log('version.new-feature-done')
